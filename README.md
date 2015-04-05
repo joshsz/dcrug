@@ -1,0 +1,3 @@
+# DCRug
+
+Regular meeting notes
